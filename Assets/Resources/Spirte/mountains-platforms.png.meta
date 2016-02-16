@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: d966689497463e144a796e92011f76c9
+timeCreated: 1453364939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mountains-platforms_0
+    21300002: mountains-platforms_1
+    21300004: mountains-platforms_2
+    21300006: mountains-platforms_3
+    21300008: mountains-platforms_4
+    21300010: mountains-platforms_5
+    21300012: mountains-platforms_6
+    21300014: mountains-platforms_7
+    21300016: mountains-platforms_8
+    21300018: mountains-platforms_9
+    21300020: mountains-platforms_10
+    21300022: mountains-platforms_11
+    21300024: mountains-platforms_12
+    21300026: mountains-platforms_13
+    21300028: mountains-platforms_14
+    21300030: mountains-platforms_15
+    21300032: mountains-platforms_16
+    21300034: mountains-platforms_17
+    21300036: mountains-platforms_18
+    21300038: mountains-platforms_19
+    21300040: mountains-platforms_20
+    21300042: mountains-platforms_21
+    21300044: mountains-platforms_22
+    21300046: mountains-platforms_23
+    21300048: mountains-platforms_24
+    21300050: mountains-platforms_25
+    21300052: mountains-platforms_26
+    21300054: mountains-platforms_27
+    21300056: mountains-platforms_28
+    21300058: mountains-platforms_29
+    21300060: mountains-platforms_30
+    21300062: mountains-platforms_31
+    21300064: mountains-platforms_32
+    21300066: mountains-platforms_33
+    21300068: mountains-platforms_34
+    21300070: mountains-platforms_35
+    21300072: mountains-platforms_36
+    21300074: mountains-platforms_37
+    21300076: mountains-platforms_38
+    21300078: mountains-platforms_39
+    21300080: mountains-platforms_40
+    21300082: mountains-platforms_41
+    21300084: mountains-platforms_42
+    21300086: mountains-platforms_43
+    21300088: mountains-platforms_44
+    21300090: mountains-platforms_45
+    21300092: mountains-platforms_46
+    21300094: mountains-platforms_47
+    21300096: mountains-platforms_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mountains-platforms_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3349
+        width: 1646
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 412.5, y: -62}
+        - {x: 411.5, y: -58}
+        - {x: 353.5, y: -52}
+        - {x: 276.5, y: -48}
+        - {x: 209.5, y: -53}
+        - {x: 208.5, y: -57}
+        - {x: 208.5, y: -59}
+        - {x: 209.5, y: -61}
+        - {x: 202.5, y: -54}
+        - {x: 196.5, y: -44}
+        - {x: 108.5, y: -56}
+        - {x: 56.5, y: -31}
+        - {x: 48.5, y: -32}
+        - {x: 46.5, y: -32}
+        - {x: 5.5, y: -24}
+        - {x: -53.5, y: 21}
+        - {x: -47.5, y: 29}
+        - {x: -51.5, y: 44}
+        - {x: -60.5, y: 48}
+        - {x: -63.5, y: 46}
+        - {x: -65.5, y: 45}
+        - {x: -65.5, y: 43}
+        - {x: -64.5, y: 49}
+        - {x: -64.5, y: 58}
+        - {x: -73.5, y: 68}
+        - {x: -116.5, y: 102}
+        - {x: -164.5, y: 123}
+        - {x: -210.5, y: 123}
+        - {x: -229.5, y: 119}
+        - {x: -325.5, y: 58}
+        - {x: -352.5, y: 59}
+        - {x: -382.5, y: 33}
+        - {x: -386.5, y: -58}
+        - {x: -411.5, y: -91}
+        - {x: -411.5, y: -122}
+        - {x: 412.5, y: -122}
+    - name: mountains-platforms_1
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 3581
+        width: 572
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -6}
+        - {x: 144, y: 46}
+        - {x: 117, y: 64}
+        - {x: 44, y: 95}
+        - {x: -17, y: 117}
+        - {x: -35, y: 117}
+        - {x: -42, y: 114}
+        - {x: -90, y: 101}
+        - {x: -109, y: 93}
+        - {x: -143, y: 51}
+        - {x: -143, y: 5}
+        - {x: -139, y: -16}
+        - {x: -128, y: -55}
+        - {x: -115, y: -69}
+        - {x: -32, y: -116}
+        - {x: 23, y: -116}
+        - {x: 32, y: -114}
+        - {x: 79, y: -84}
+        - {x: 104, y: -55}
+        - {x: 133, y: -46}
+    - name: mountains-platforms_2
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 3573
+        width: 888
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 222, y: 25.5}
+        - {x: 223, y: 28.5}
+        - {x: 223, y: 96.5}
+        - {x: 222, y: 98.5}
+        - {x: 52, y: 98.5}
+        - {x: -11, y: 89.5}
+        - {x: -26, y: 98.5}
+        - {x: -203, y: 98.5}
+        - {x: -222, y: 86.5}
+        - {x: -222, y: 6.5}
+        - {x: -211, y: 0.5}
+        - {x: -176, y: -3.5}
+        - {x: -156, y: 3.5}
+        - {x: -165, y: -0.5}
+        - {x: -168, y: -7.5}
+        - {x: -119, y: -51.5}
+        - {x: -27, y: -97.5}
+        - {x: 17, y: -97.5}
+        - {x: 85, y: -82.5}
+        - {x: 158, y: -14.5}
+        - {x: 211, y: -3.5}
+    - name: mountains-platforms_3
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3003
+        width: 156
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 230}
+        - {x: -33, y: 230}
+        - {x: -39, y: 229}
+        - {x: -39, y: -226}
+        - {x: -37, y: -229}
+        - {x: 39, y: -229}
+        - {x: 40, y: -227}
+        - {x: 40, y: 75}
+        - {x: 12, y: 215}
+    - name: mountains-platforms_4
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 3565
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2918
+        width: 2998
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -226.5, y: -108}
+        - {x: -224.5, y: -107}
+        - {x: -34.5, y: -108}
+        - {x: 88.5, y: -107}
+        - {x: 89.5, y: -108}
+        - {x: 310.5, y: -107}
+        - {x: 310.5, y: -108}
+        - {x: 368.5, y: -108}
+        - {x: 472.5, y: -107}
+        - {x: 473.5, y: -108}
+        - {x: 732.5, y: -108}
+        - {x: 744.5, y: -107}
+        - {x: 748.5, y: -105}
+        - {x: 750.5, y: -69}
+        - {x: 750.5, y: 50}
+        - {x: 744.5, y: 56}
+        - {x: 706.5, y: 72}
+        - {x: 695.5, y: 74}
+        - {x: 669.5, y: 89}
+        - {x: 665.5, y: 89}
+        - {x: 661.5, y: 83}
+        - {x: 615.5, y: 89}
+        - {x: 601.5, y: 98}
+        - {x: 574.5, y: 92}
+        - {x: 563.5, y: 106}
+        - {x: 499.5, y: 104}
+        - {x: 475.5, y: 101}
+        - {x: 468.5, y: 109}
+        - {x: 447.5, y: 109}
+        - {x: 437.5, y: 103}
+        - {x: 402.5, y: 100}
+        - {x: 385.5, y: 106}
+        - {x: 336.5, y: 88}
+        - {x: 325.5, y: 91}
+        - {x: 258.5, y: 80}
+        - {x: 246.5, y: 83}
+        - {x: 220.5, y: 78}
+        - {x: 184.5, y: 68}
+        - {x: 123.5, y: 57}
+        - {x: 87.5, y: 49}
+        - {x: 30.5, y: 43}
+        - {x: 4.5, y: 38}
+        - {x: -40.5, y: 60}
+        - {x: -46.5, y: 45}
+        - {x: -93.5, y: 52}
+        - {x: -104.5, y: 47}
+        - {x: -140.5, y: 54}
+        - {x: -178.5, y: 55}
+        - {x: -197.5, y: 60}
+        - {x: -226.5, y: 68}
+        - {x: -235.5, y: 59}
+        - {x: -269.5, y: 69}
+        - {x: -281.5, y: 69}
+        - {x: -303.5, y: 78}
+        - {x: -314.5, y: 79}
+        - {x: -338.5, y: 73}
+        - {x: -375.5, y: 78}
+        - {x: -385.5, y: 64}
+        - {x: -393.5, y: 82}
+        - {x: -410.5, y: 69}
+        - {x: -418.5, y: 58}
+        - {x: -452.5, y: 59}
+        - {x: -467.5, y: 50}
+        - {x: -497.5, y: 48}
+        - {x: -561.5, y: 25}
+        - {x: -568.5, y: 30}
+        - {x: -595.5, y: 35}
+        - {x: -603.5, y: 37}
+        - {x: -605.5, y: 35}
+        - {x: -632.5, y: 37}
+        - {x: -643.5, y: 31}
+        - {x: -652.5, y: 26}
+        - {x: -692.5, y: 39}
+        - {x: -719.5, y: 28}
+        - {x: -744.5, y: 26}
+        - {x: -749.5, y: 23}
+        - {x: -749.5, y: -105}
+        - {x: -744.5, y: -108}
+      - - {x: -711.5, y: 105}
+        - {x: -686.5, y: 105}
+        - {x: -679.5, y: 106}
+        - {x: -679.5, y: 109}
+        - {x: -719.5, y: 109}
+        - {x: -718.5, y: 106}
+      - - {x: -474.5, y: 105}
+        - {x: -460.5, y: 105}
+        - {x: -453.5, y: 106}
+        - {x: -453.5, y: 109}
+        - {x: -478.5, y: 109}
+        - {x: -477.5, y: 106}
+      - - {x: -432.5, y: 109}
+        - {x: -431.5, y: 106}
+        - {x: -423.5, y: 105}
+        - {x: -307.5, y: 105}
+        - {x: -216.5, y: 106}
+        - {x: -214.5, y: 108}
+        - {x: -214.5, y: 109}
+      - - {x: -186.5, y: 109}
+        - {x: -186.5, y: 108}
+        - {x: -183.5, y: 105}
+        - {x: -127.5, y: 105}
+        - {x: -123.5, y: 107}
+        - {x: -123.5, y: 109}
+      - - {x: -749.5, y: 109}
+        - {x: -749.5, y: 106}
+        - {x: -729.5, y: 106}
+        - {x: -728.5, y: 108}
+        - {x: -728.5, y: 109}
+      - - {x: -728.5, y: 109}
+        - {x: -727.5, y: 106}
+        - {x: -722.5, y: 106}
+        - {x: -720.5, y: 108}
+        - {x: -720.5, y: 109}
+      - - {x: -677.5, y: 109}
+        - {x: -675.5, y: 106}
+        - {x: -521.5, y: 106}
+        - {x: -519.5, y: 108}
+        - {x: -519.5, y: 109}
+      - - {x: -515.5, y: 109}
+        - {x: -514.5, y: 106}
+        - {x: -479.5, y: 106}
+        - {x: -478.5, y: 108}
+        - {x: -478.5, y: 109}
+      - - {x: -450.5, y: 109}
+        - {x: -449.5, y: 106}
+        - {x: -446.5, y: 106}
+        - {x: -444.5, y: 108}
+        - {x: -444.5, y: 109}
+      - - {x: -444.5, y: 109}
+        - {x: -443.5, y: 106}
+        - {x: -435.5, y: 106}
+        - {x: -433.5, y: 108}
+        - {x: -433.5, y: 109}
+      - - {x: -214.5, y: 109}
+        - {x: -214.5, y: 106}
+        - {x: -188.5, y: 106}
+        - {x: -187.5, y: 108}
+        - {x: -187.5, y: 109}
+    - name: mountains-platforms_6
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2917
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_7
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 2917
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_8
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 2811
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_9
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 2805
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1599
+        width: 764
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: -290.5}
+        - {x: 192, y: -257.5}
+        - {x: 187, y: -251.5}
+        - {x: 168, y: -242.5}
+        - {x: 161, y: -252.5}
+        - {x: 139, y: -254.5}
+        - {x: 134, y: -240.5}
+        - {x: 106, y: -234.5}
+        - {x: 102, y: -224.5}
+        - {x: 69, y: -218.5}
+        - {x: 66, y: -191.5}
+        - {x: 46, y: -150.5}
+        - {x: 34, y: -145.5}
+        - {x: 31, y: -50.5}
+        - {x: 28, y: 21.5}
+        - {x: 38, y: 28.5}
+        - {x: 28, y: 46.5}
+        - {x: 13, y: 43.5}
+        - {x: 2, y: 58.5}
+        - {x: -4, y: 60.5}
+        - {x: -21, y: 63.5}
+        - {x: -37, y: 74.5}
+        - {x: -43, y: 75.5}
+        - {x: -55, y: 65.5}
+        - {x: -66, y: 77.5}
+        - {x: -72, y: 117.5}
+        - {x: -93, y: 225.5}
+        - {x: -97, y: 255.5}
+        - {x: -104, y: 287.5}
+        - {x: -127, y: 278.5}
+        - {x: -131, y: 293.5}
+        - {x: -175, y: 293.5}
+        - {x: -191, y: 286.5}
+        - {x: -191, y: -287.5}
+        - {x: -188, y: -292.5}
+        - {x: 191, y: -292.5}
+    - name: mountains-platforms_11
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2365
+        width: 874
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 203.5, y: 38.5}
+        - {x: -218.5, y: 38.5}
+        - {x: -218.5, y: -19.5}
+        - {x: -181.5, y: -37.5}
+        - {x: 136.5, y: -37.5}
+        - {x: 219.5, y: -17.5}
+        - {x: 219.5, y: 24.5}
+        - {x: 213.5, y: 31.5}
+      - - {x: -211.5, y: -16.5}
+        - {x: -208.5, y: -15.5}
+        - {x: -208.5, y: -12.5}
+        - {x: -211.5, y: -11.5}
+        - {x: -213.5, y: -13.5}
+    - name: mountains-platforms_12
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2317
+        width: 1610
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 237.5, y: 15.5}
+        - {x: 232.5, y: 19.5}
+        - {x: 227.5, y: 19.5}
+        - {x: 232.5, y: 19.5}
+        - {x: 240.5, y: 14.5}
+        - {x: 256.5, y: 6.5}
+        - {x: 267.5, y: 7.5}
+        - {x: 287.5, y: 19.5}
+        - {x: 291.5, y: 22.5}
+        - {x: 292.5, y: 32.5}
+        - {x: 274.5, y: 38.5}
+        - {x: 309.5, y: 36.5}
+        - {x: 398.5, y: 38.5}
+        - {x: 403.5, y: 56.5}
+        - {x: 403.5, y: 107.5}
+        - {x: 156.5, y: 107.5}
+        - {x: 0.5, y: 68.5}
+        - {x: -371.5, y: 68.5}
+        - {x: -402.5, y: 44.5}
+        - {x: -402.5, y: -1.5}
+        - {x: -230.5, y: -64.5}
+        - {x: -91.5, y: -106.5}
+        - {x: 6.5, y: -106.5}
+        - {x: 165.5, y: -27.5}
+        - {x: 254.5, y: -4.5}
+        - {x: 245.5, y: 11.5}
+      - - {x: 82.5, y: -37.5}
+        - {x: 82.5, y: -49.5}
+        - {x: 99.5, y: -52.5}
+        - {x: 139.5, y: -52.5}
+        - {x: 145.5, y: -49.5}
+        - {x: 145.5, y: -30.5}
+        - {x: 144.5, y: -28.5}
+        - {x: 115.5, y: -11.5}
+        - {x: 101.5, y: -11.5}
+        - {x: 83.5, y: -32.5}
+      - - {x: -243.5, y: -15.5}
+        - {x: -240.5, y: -14.5}
+        - {x: -240.5, y: -11.5}
+        - {x: -243.5, y: -10.5}
+        - {x: -245.5, y: -12.5}
+      - - {x: 247.5, y: 1.5}
+        - {x: 250.5, y: 2.5}
+        - {x: 250.5, y: 5.5}
+        - {x: 247.5, y: 6.5}
+        - {x: 245.5, y: 4.5}
+      - - {x: 290.5, y: 26.5}
+        - {x: 293.5, y: 23.5}
+        - {x: 295.5, y: 23.5}
+        - {x: 297.5, y: 25.5}
+        - {x: 296.5, y: 28.5}
+        - {x: 292.5, y: 29.5}
+      - - {x: 388.5, y: 33.5}
+        - {x: 391.5, y: 34.5}
+        - {x: 391.5, y: 37.5}
+        - {x: 388.5, y: 38.5}
+        - {x: 386.5, y: 36.5}
+      - - {x: 271.5, y: 36.5}
+        - {x: 274.5, y: 37.5}
+        - {x: 274.5, y: 40.5}
+        - {x: 271.5, y: 41.5}
+        - {x: 269.5, y: 39.5}
+    - name: mountains-platforms_13
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 2299
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_14
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2189
+        width: 318
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 25}
+        - {x: -79.5, y: -21}
+        - {x: -75.5, y: -24}
+        - {x: 80.5, y: -24}
+        - {x: 80.5, y: 18}
+        - {x: 72.5, y: 25}
+    - name: mountains-platforms_15
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2034
+        width: 700
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: 61}
+        - {x: -35, y: 61}
+        - {x: -175, y: 25}
+        - {x: -175, y: -37}
+        - {x: -96, y: -58}
+        - {x: -77, y: -61}
+        - {x: 176, y: -61}
+        - {x: 176, y: 49}
+        - {x: 175, y: 50}
+    - name: mountains-platforms_16
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1877
+        width: 628
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 75}
+        - {x: 41, y: 60}
+        - {x: 36, y: 30}
+        - {x: -72, y: 20}
+        - {x: -157, y: 12}
+        - {x: -157, y: -73}
+        - {x: -153, y: -74}
+        - {x: 155, y: -74}
+        - {x: 158, y: -68}
+        - {x: 158, y: 75}
+    - name: mountains-platforms_17
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1923
+        width: 1174
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 59}
+        - {x: -130.5, y: 59}
+        - {x: -246.5, y: -15}
+        - {x: -293.5, y: -48}
+        - {x: -293.5, y: -58}
+        - {x: 294.5, y: -58}
+        - {x: 294.5, y: -44}
+        - {x: 63.5, y: -15}
+        - {x: -18.5, y: 38}
+    - name: mountains-platforms_18
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 2031
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_19
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 2013
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_20
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 2014
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_21
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 2006
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_22
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2017
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_23
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 2014
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_24
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 2001
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_25
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 1995
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_26
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1998
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_27
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1981
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_28
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1983
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_29
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 1960
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_30
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 1958
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_31
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 771
+        width: 125
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 255.5}
+        - {x: -4.5, y: 246.5}
+        - {x: -30.5, y: 14.5}
+        - {x: -30.5, y: -189.5}
+        - {x: -3.5, y: -254.5}
+        - {x: 31.5, y: -254.5}
+        - {x: 31.5, y: 255.5}
+    - name: mountains-platforms_32
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1477
+        width: 762
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: -8.5}
+        - {x: -13.5, y: -21.5}
+        - {x: -75.5, y: 26.5}
+        - {x: -127.5, y: 63.5}
+        - {x: -160.5, y: 77.5}
+        - {x: -190.5, y: 77.5}
+        - {x: -190.5, y: -76.5}
+        - {x: 191.5, y: -76.5}
+        - {x: 191.5, y: -23.5}
+        - {x: 102.5, y: -2.5}
+    - name: mountains-platforms_33
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1641
+        width: 926
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202.5, y: 51.5}
+        - {x: 117.5, y: 51.5}
+        - {x: 112.5, y: 50.5}
+        - {x: 110.5, y: 46.5}
+        - {x: 110.5, y: 43.5}
+        - {x: 105.5, y: 51.5}
+        - {x: -213.5, y: 51.5}
+        - {x: -223.5, y: 46.5}
+        - {x: -231.5, y: 43.5}
+        - {x: -231.5, y: -8.5}
+        - {x: -219.5, y: -31.5}
+        - {x: -176.5, y: -46.5}
+        - {x: -113.5, y: -50.5}
+        - {x: 186.5, y: -50.5}
+        - {x: 232.5, y: -1.5}
+        - {x: 232.5, y: 43.5}
+    - name: mountains-platforms_34
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1635
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_35
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1637
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_36
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1607
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 879
+        width: 596
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 169}
+        - {x: 70, y: 157}
+        - {x: 71, y: -100}
+        - {x: -69, y: -131}
+        - {x: -144, y: -151}
+        - {x: -149, y: -159}
+        - {x: -149, y: -168}
+        - {x: 140, y: -168}
+        - {x: 147, y: -145}
+        - {x: 150, y: -46}
+        - {x: 150, y: 169}
+    - name: mountains-platforms_38
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 799
+        width: 270
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 90.5}
+        - {x: 63.5, y: 132.5}
+        - {x: 68.5, y: 157.5}
+        - {x: 68.5, y: 184.5}
+        - {x: 62.5, y: 189.5}
+        - {x: 22.5, y: 190.5}
+        - {x: -35.5, y: 190.5}
+        - {x: -47.5, y: 176.5}
+        - {x: -46.5, y: 88.5}
+        - {x: -67.5, y: 59.5}
+        - {x: -67.5, y: -188.5}
+        - {x: -65.5, y: -189.5}
+        - {x: 34.5, y: -189.5}
+        - {x: 38.5, y: -183.5}
+        - {x: 37.5, y: -7.5}
+        - {x: 62.5, y: 20.5}
+    - name: mountains-platforms_39
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1301
+        width: 886
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -217.5, y: 27.5}
+        - {x: -221.5, y: 22.5}
+        - {x: -221.5, y: -26.5}
+        - {x: 219.5, y: -26.5}
+        - {x: 222.5, y: -25.5}
+        - {x: 222.5, y: 27.5}
+    - name: mountains-platforms_40
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1309
+        width: 968
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158, y: 42}
+        - {x: 89, y: 33}
+        - {x: 9, y: 42}
+        - {x: -197, y: 42}
+        - {x: -227, y: 37}
+        - {x: -237, y: 27}
+        - {x: -242, y: 24}
+        - {x: -242, y: -14}
+        - {x: -150, y: -41}
+        - {x: 186, y: -41}
+        - {x: 243, y: -21}
+        - {x: 243, y: 29}
+        - {x: 218, y: 42}
+    - name: mountains-platforms_41
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_42
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 973
+        width: 432
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 38.5}
+        - {x: -108, y: -4.5}
+        - {x: -108, y: -37.5}
+        - {x: 109, y: -37.5}
+        - {x: 109, y: 38.5}
+    - name: mountains-platforms_43
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 733
+        width: 601
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 111}
+        - {x: 88, y: 111}
+        - {x: 14, y: 84}
+        - {x: 13, y: 105}
+        - {x: -42, y: 90}
+        - {x: -95, y: 75}
+        - {x: -142, y: 42}
+        - {x: -150, y: 17}
+        - {x: -150, y: -9}
+        - {x: -120, y: -28}
+        - {x: -53, y: -32}
+        - {x: -34, y: -81}
+        - {x: -10, y: -104}
+        - {x: 0, y: -110}
+        - {x: 151, y: -110}
+        - {x: 151, y: 94}
+        - {x: 146, y: 100}
+      - - {x: -48, y: -55}
+        - {x: -50, y: -57}
+        - {x: -50, y: -60}
+        - {x: -48, y: -62}
+        - {x: -46, y: -62}
+        - {x: -44, y: -60}
+        - {x: -44, y: -57}
+        - {x: -46, y: -55}
+    - name: mountains-platforms_44
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1115
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountains-platforms_45
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 653
+        width: 660
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: -132.5}
+        - {x: 110, y: -112.5}
+        - {x: 112, y: -75.5}
+        - {x: 111, y: 21.5}
+        - {x: 154, y: 93.5}
+        - {x: 166, y: 97.5}
+        - {x: 166, y: 124.5}
+        - {x: 149, y: 139.5}
+        - {x: 99, y: 138.5}
+        - {x: 85, y: 141.5}
+        - {x: 47, y: 141.5}
+        - {x: 18, y: 135.5}
+        - {x: -12, y: 141.5}
+        - {x: -47, y: 141.5}
+        - {x: -148, y: 131.5}
+        - {x: -165, y: 127.5}
+        - {x: -165, y: 103.5}
+        - {x: -98, y: 31.5}
+        - {x: -99, y: -65.5}
+        - {x: -100, y: -104.5}
+        - {x: -96, y: -139.5}
+        - {x: -95, y: -140.5}
+        - {x: 105, y: -140.5}
+        - {x: 109, y: -137.5}
+        - {x: 111, y: -135.5}
+    - name: mountains-platforms_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 597
+        width: 928
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 34.5}
+        - {x: 100, y: 32.5}
+        - {x: -23, y: 28.5}
+        - {x: -99, y: 34.5}
+        - {x: -206, y: 34.5}
+        - {x: -232, y: 25.5}
+        - {x: -232, y: -33.5}
+        - {x: 227, y: -33.5}
+        - {x: 228, y: -32.5}
+        - {x: 233, y: -7.5}
+        - {x: 233, y: 34.5}
+    - name: mountains-platforms_47
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 597
+        width: 1050
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 170.5, y: 41.5}
+        - {x: 133.5, y: 46.5}
+        - {x: 5.5, y: 46.5}
+        - {x: -40.5, y: 22.5}
+        - {x: -52.5, y: 46.5}
+        - {x: -53.5, y: 46.5}
+        - {x: -152.5, y: 24.5}
+        - {x: -259.5, y: -29.5}
+        - {x: -262.5, y: -35.5}
+        - {x: -262.5, y: -45.5}
+        - {x: 263.5, y: -45.5}
+        - {x: 263.5, y: 8.5}
+        - {x: 241.5, y: 24.5}
+    - name: mountains-platforms_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 3528
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 882, y: -14}
+        - {x: 883, y: -14}
+        - {x: 883, y: 24}
+        - {x: 875, y: 28}
+        - {x: 861, y: 29}
+        - {x: 849, y: 30}
+        - {x: 830, y: 37}
+        - {x: 818, y: 41}
+        - {x: 808, y: 32}
+        - {x: 792, y: 36}
+        - {x: 789, y: 43}
+        - {x: 784, y: 47}
+        - {x: 777, y: 43}
+        - {x: 771, y: 34}
+        - {x: 765, y: 37}
+        - {x: 745, y: 36}
+        - {x: 723, y: 37}
+        - {x: 712, y: 39}
+        - {x: 698, y: 41}
+        - {x: 672, y: 43}
+        - {x: 654, y: 43}
+        - {x: 612, y: 48}
+        - {x: 596, y: 54}
+        - {x: 580, y: 61}
+        - {x: 568, y: 61}
+        - {x: 555, y: 65}
+        - {x: 544, y: 69}
+        - {x: 529, y: 75}
+        - {x: 524, y: 72}
+        - {x: 520, y: 67}
+        - {x: 499, y: 79}
+        - {x: 485, y: 80}
+        - {x: 483, y: 69}
+        - {x: 476, y: 70}
+        - {x: 462, y: 68}
+        - {x: 446, y: 72}
+        - {x: 428, y: 76}
+        - {x: 396, y: 86}
+        - {x: 382, y: 90}
+        - {x: 364, y: 98}
+        - {x: 361, y: 99}
+        - {x: 350, y: 95}
+        - {x: 342, y: 97}
+        - {x: 323, y: 102}
+        - {x: 321, y: 107}
+        - {x: 312, y: 114}
+        - {x: 303, y: 113}
+        - {x: 301, y: 109}
+        - {x: 283, y: 112}
+        - {x: 258, y: 118}
+        - {x: 236, y: 118}
+        - {x: 226, y: 116}
+        - {x: 185, y: 111}
+        - {x: 174, y: 116}
+        - {x: 161, y: 117}
+        - {x: 147, y: 112}
+        - {x: 137, y: 106}
+        - {x: 109, y: 105}
+        - {x: 103, y: 112}
+        - {x: 77, y: 108}
+        - {x: 62, y: 106}
+        - {x: 53, y: 103}
+        - {x: 34, y: 96}
+        - {x: 11, y: 103}
+        - {x: -7, y: 104}
+        - {x: -22, y: 104}
+        - {x: -31, y: 99}
+        - {x: -31, y: 95}
+        - {x: -42, y: 90}
+        - {x: -66, y: 90}
+        - {x: -102, y: 93}
+        - {x: -108, y: 91}
+        - {x: -148, y: 99}
+        - {x: -159, y: 95}
+        - {x: -176, y: 92}
+        - {x: -185, y: 93}
+        - {x: -206, y: 94}
+        - {x: -205, y: 108}
+        - {x: -207, y: 110}
+        - {x: -218, y: 110}
+        - {x: -236, y: 99}
+        - {x: -240, y: 97}
+        - {x: -248, y: 91}
+        - {x: -271, y: 90}
+        - {x: -284, y: 89}
+        - {x: -307, y: 88}
+        - {x: -317, y: 85}
+        - {x: -358, y: 85}
+        - {x: -366, y: 80}
+        - {x: -380, y: 79}
+        - {x: -398, y: 77}
+        - {x: -405, y: 82}
+        - {x: -423, y: 77}
+        - {x: -428, y: 81}
+        - {x: -436, y: 83}
+        - {x: -467, y: 80}
+        - {x: -476, y: 78}
+        - {x: -499, y: 77}
+        - {x: -510, y: 72}
+        - {x: -520, y: 64}
+        - {x: -528, y: 62}
+        - {x: -556, y: 58}
+        - {x: -572, y: 59}
+        - {x: -607, y: 57}
+        - {x: -615, y: 59}
+        - {x: -629, y: 57}
+        - {x: -651, y: 70}
+        - {x: -657, y: 68}
+        - {x: -671, y: 64}
+        - {x: -683, y: 63}
+        - {x: -693, y: 58}
+        - {x: -726, y: 57}
+        - {x: -744, y: 58}
+        - {x: -751, y: 65}
+        - {x: -766, y: 65}
+        - {x: -777, y: 66}
+        - {x: -782, y: 65}
+        - {x: -815, y: 63}
+        - {x: -820, y: 60}
+        - {x: -841, y: 67}
+        - {x: -848, y: 65}
+        - {x: -879, y: 56}
+        - {x: -882, y: 54}
+        - {x: -882, y: 29}
+        - {x: -879, y: 25}
+        - {x: -880, y: 3}
+        - {x: -879, y: -50}
+        - {x: -882, y: -59}
+        - {x: -882, y: -70}
+        - {x: -881, y: -82}
+        - {x: -881, y: -110}
+        - {x: -879, y: -117}
+        - {x: 880, y: -117}
+        - {x: 883, y: -114}
+        - {x: 883, y: -93}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
